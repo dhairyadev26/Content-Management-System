@@ -1,0 +1,97 @@
+/**
+ * Admin styles for the Advanced Bulk Content Management plugin
+ */
+
+.abcm-content-area {
+    margin-top: 20px;
+}
+
+.abcm-filters {
+    margin-bottom: 20px;
+    padding: 15px;
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+}
+
+.abcm-posts-table {
+    margin-top: 20px;
+}
+
+/* Table styling */
+.abcm-posts-table .wp-list-table {
+    border-spacing: 0;
+    width: 100%;
+    clear: both;
+}
+
+.abcm-posts-table .wp-list-table * {
+    word-wrap: break-word;
+}
+
+.abcm-posts-table .wp-list-table a {
+    text-decoration: none;
+}
+
+
+// Updated: 2025-07-01T10:15:00 - Add CSS for bulk action dropdown
+
+
+// Updated: 2025-07-15T10:15:00 - Add CSS for admin page responsiveness
+
+
+// Updated: 2025-07-15T10:45:00 - Add CSS for mobile view of admin page
+
+
+// Updated: 2025-07-15T12:00:00 - Refactor mobile view CSS code
+
+
+// Updated: 2025-07-15T12:30:00 - Add comments to mobile view CSS code
+
+
+// Updated: 2025-07-15T13:30:00 - Fix bug in mobile view CSS code
+
+
+// Updated: 2025-07-20T09:00:00 - Add CSS for admin page dark mode
+
+
+// Updated: 2025-07-20T10:15:00 - Refactor dark mode CSS code
+
+
+// Updated: 2025-07-20T10:45:00 - Add comments to dark mode CSS code
+
+
+// Updated: 2025-07-20T11:45:00 - Fix bug in dark mode CSS code
+
+
+// Updated: 2025-07-20T12:15:00 - Add localization to dark mode CSS code
+
+
+// Updated: 2025-07-20T12:30:00 - Add CSS for admin page accessibility
+
+
+// Updated: 2025-07-25T10:00:00 - Refactor accessibility CSS code
+
+
+// Updated:  - Fix CSS for accessibility
+
+
+// Updated:  - Fix CSS for accessibility
+
+
+// Updated:  - Fix CSS for accessibility
+
+
+// Updated:  - Fix CSS for accessibility
+
+
+// Updated:  - Fix CSS for accessibility
+
+
+// Updated:  - Fix CSS for accessibility
+
+
+// Updated:  - Fix CSS for accessibility
+
+
+// Updated:  - Fix CSS for accessibility

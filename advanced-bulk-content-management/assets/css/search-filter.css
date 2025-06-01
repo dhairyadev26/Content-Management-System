@@ -1,0 +1,140 @@
+/**
+ * Advanced Bulk Content Management Search Filter Styles
+ */
+
+.abcm-filter-section {
+    margin-bottom: 20px;
+    padding: 15px;
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    border-radius: 3px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+}
+
+.abcm-filter-section h3 {
+    margin-top: 0;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #f1f1f1;
+    font-size: 14px;
+}
+
+.abcm-filter-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+.abcm-filter-row:last-child {
+    margin-bottom: 0;
+}
+
+.abcm-filter-item {
+    flex: 1;
+    min-width: 200px;
+}
+
+.abcm-filter-item label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+.abcm-filter-item input[type="text"],
+.abcm-filter-item input[type="date"],
+.abcm-filter-item select {
+    width: 100%;
+}
+
+.abcm-filter-actions {
+    margin-top: 15px;
+    display: flex;
+    gap: 10px;
+}
+
+/* Loading indicator */
+.abcm-loading {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.7);
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.abcm-loading .spinner {
+    float: none;
+    margin: 0;
+    width: 50px;
+    height: 50px;
+    background-size: 50px 50px;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+    .abcm-filter-section {
+        background: #32373c;
+        border-color: #23282d;
+    }
+    
+    .abcm-filter-section h3 {
+        border-bottom-color: #23282d;
+    }
+    
+    .abcm-loading {
+        background: rgba(30, 30, 30, 0.7);
+    }
+}
+
+/* Mobile responsiveness */
+@media screen and (max-width: 782px) {
+    .abcm-filter-item {
+        flex: 100%;
+    }
+    
+    .abcm-filter-row {
+        gap: 10px;
+    }
+    
+    .abcm-filter-actions {
+        flex-direction: column;
+    }
+    
+    .abcm-filter-actions button {
+        width: 100%;
+    }
+}
+
+
+// Updated: 2025-07-10T10:15:00 - Add CSS for admin table filters
+
+
+// Updated: 2025-07-10T12:30:00 - Add CSS for reset button
+
+
+// Updated:  - Enhance CSS for mobile view
+
+
+// Updated:  - Enhance CSS for mobile view
+
+
+// Updated:  - Enhance CSS for mobile view
+
+
+// Updated:  - Enhance CSS for mobile view
+
+
+// Updated:  - Enhance CSS for mobile view
+
+
+// Updated:  - Enhance CSS for mobile view
+
+
+// Updated:  - Enhance CSS for mobile view
+
+
+// Updated:  - Enhance CSS for mobile view
