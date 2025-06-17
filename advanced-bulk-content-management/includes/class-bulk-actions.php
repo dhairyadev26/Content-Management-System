@@ -655,3 +655,6 @@ class ABCM_Bulk_Actions {
 
 
 // Updated: 2025-06-08T09:30:00 - Implement basic bulk actions framework
+
+
+// Updated: 2025-06-17T09:30:00 - Improve bulk actions error handling
