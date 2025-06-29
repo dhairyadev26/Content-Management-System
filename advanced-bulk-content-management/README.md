@@ -1,3 +1,4 @@
+<!-- Updated: 2025-06-29T12:00:00 - Improve plugin documentation -->
 # Advanced Bulk Content Management
 
 A WordPress plugin for advanced management of content with bulk actions and filtering.
@@ -8,3 +9,4 @@ A WordPress plugin for advanced management of content with bulk actions and filt
 - Advanced filtering options
 - Custom post type support
 - And more...
+
