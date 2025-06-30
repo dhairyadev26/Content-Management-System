@@ -149,3 +149,6 @@ function abcm_admin_page_callback() {
 
 
 
+
+
+// Updated: 2025-06-30T16:45:00 - Add version check for WordPress compatibility
