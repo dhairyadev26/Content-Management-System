@@ -219,3 +219,6 @@ class ABCM_Admin_Page {
 
 
 // Updated: 2025-06-02T16:45:00 - Create basic admin page structure
+
+
+// Updated: 2025-07-01T14:30:00 - Add ARIA attributes to admin interface
