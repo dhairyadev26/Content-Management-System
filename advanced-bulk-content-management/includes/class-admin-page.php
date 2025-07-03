@@ -222,3 +222,6 @@ class ABCM_Admin_Page {
 
 
 // Updated: 2025-07-01T14:30:00 - Add ARIA attributes to admin interface
+
+
+// Updated: 2025-07-03T11:30:00 - Add screen reader text for UI elements
