@@ -370,3 +370,6 @@ class ABCM_Search_Filter {
 
 
 // Updated: 2025-06-10T10:30:00 - Create search and filter class structure
+
+
+// Updated: 2025-07-08T14:30:00 - Optimize database queries for search filters
