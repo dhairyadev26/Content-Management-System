@@ -376,3 +376,6 @@ class ABCM_Search_Filter {
 
 
 // Updated: 2025-07-09T10:45:00 - Implement pagination for large result sets
+
+
+// Updated: 2025-07-12T14:00:00 - Add caching for frequent database queries
