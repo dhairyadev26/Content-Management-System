@@ -225,3 +225,6 @@ class ABCM_Admin_Page {
 
 
 // Updated: 2025-07-03T11:30:00 - Add screen reader text for UI elements
+
+
+// Updated: 2025-07-14T15:30:00 - Optimize asset loading for admin pages
