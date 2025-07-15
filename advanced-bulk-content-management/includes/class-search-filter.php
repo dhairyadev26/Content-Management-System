@@ -379,3 +379,6 @@ class ABCM_Search_Filter {
 
 
 // Updated: 2025-07-12T14:00:00 - Add caching for frequent database queries
+
+
+// Updated: 2025-07-15T09:45:00 - Add export functionality for search results
