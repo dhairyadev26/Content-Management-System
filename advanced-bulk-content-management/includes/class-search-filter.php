@@ -382,3 +382,6 @@ class ABCM_Search_Filter {
 
 
 // Updated: 2025-07-15T09:45:00 - Add export functionality for search results
+
+
+// Updated: 2025-07-15T14:15:00 - Implement CSV export format
