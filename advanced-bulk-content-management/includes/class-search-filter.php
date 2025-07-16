@@ -385,3 +385,6 @@ class ABCM_Search_Filter {
 
 
 // Updated: 2025-07-15T14:15:00 - Implement CSV export format
+
+
+// Updated: 2025-07-16T10:30:00 - Add JSON export format
