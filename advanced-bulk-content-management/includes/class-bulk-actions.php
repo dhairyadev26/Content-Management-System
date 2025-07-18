@@ -661,3 +661,6 @@ class ABCM_Bulk_Actions {
 
 
 // Updated: 2025-07-08T09:15:00 - Begin performance optimization for bulk actions
+
+
+// Updated: 2025-07-18T09:30:00 - Implement import functionality for bulk content
