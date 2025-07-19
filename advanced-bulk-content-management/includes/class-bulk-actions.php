@@ -667,3 +667,6 @@ class ABCM_Bulk_Actions {
 
 
 // Updated: 2025-07-18T14:45:00 - Add CSV import support
+
+
+// Updated: 2025-07-19T10:00:00 - Implement JSON import support
