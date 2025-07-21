@@ -670,3 +670,6 @@ class ABCM_Bulk_Actions {
 
 
 // Updated: 2025-07-19T10:00:00 - Implement JSON import support
+
+
+// Updated: 2025-07-21T09:15:00 - Implement validation for imported data
