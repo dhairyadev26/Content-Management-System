@@ -228,3 +228,6 @@ class ABCM_Admin_Page {
 
 
 // Updated: 2025-07-14T15:30:00 - Optimize asset loading for admin pages
+
+
+// Updated: 2025-07-22T10:30:00 - Add user permission management
