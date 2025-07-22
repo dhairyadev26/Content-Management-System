@@ -231,3 +231,6 @@ class ABCM_Admin_Page {
 
 
 // Updated: 2025-07-22T10:30:00 - Add user permission management
+
+
+// Updated: 2025-07-22T15:45:00 - Implement role-based access control
