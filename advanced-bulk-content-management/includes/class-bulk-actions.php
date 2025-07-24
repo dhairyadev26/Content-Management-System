@@ -673,3 +673,6 @@ class ABCM_Bulk_Actions {
 
 
 // Updated: 2025-07-21T09:15:00 - Implement validation for imported data
+
+
+// Updated: 2025-07-24T10:15:00 - Implement bulk scheduling functionality
