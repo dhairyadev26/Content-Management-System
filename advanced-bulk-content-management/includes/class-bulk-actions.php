@@ -676,3 +676,6 @@ class ABCM_Bulk_Actions {
 
 
 // Updated: 2025-07-24T10:15:00 - Implement bulk scheduling functionality
+
+
+// Updated: 2025-07-25T15:00:00 - Implement recurring schedule options
