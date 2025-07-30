@@ -155,3 +155,6 @@ function abcm_admin_page_callback() {
 
 
 // Updated: 2025-07-30T11:15:00 - Final code review and cleanup
+
+
+// Updated: 2025-07-30T15:30:00 - Version bump to 0.2.0
